@@ -1,0 +1,7 @@
+# ignore all logs
+*.log
+# ignore virtual environments
+venv
+# ignore test file
+test_pytest.py
+test_unittest.py
